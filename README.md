@@ -14,6 +14,7 @@ I'm a Computer Science student from Poland.
 
 ### Tools
 - Git
+- Excel
 - Linux
 - Docker
 
