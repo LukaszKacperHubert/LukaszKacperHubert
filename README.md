@@ -11,13 +11,3 @@ I'm a Computer Science student from Poland.
 ### Databases
 - MongoDB
 - SQL
-
-### Tools
-- Git
-- Excel
-- Linux
-- Docker
-
-## Featured Projects
-- Biblioteka Plus
-- Network Intrusion Detection System
